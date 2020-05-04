@@ -9,6 +9,7 @@ public class IntQ1 {
 
         String str1= str.substring(0);
         System.out.println(str1);
+
         String[] names1 = new String[] {"Ava", "Emma", "Olivia"};
         String[] names2 = new String[] {"Olivia", "Sophia", "Emma"};
 
