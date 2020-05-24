@@ -1,0 +1,27 @@
+
+K
+java:S1854"5Remove this useless assignment to local variable "t".(®şÊÅ
+M	java:S106W"9Replace this use of System.out or System.err by a logger.(¬’·
+T
+java:S2121
+"9Remove this "substring" call; it has predictable results.(İšÄşÿÿÿÿ
+M	java:S106h"9Replace this use of System.out or System.err by a logger.(ÇÑ×
+V	java:S1255"<This block of commented-out lines of code should be removed.(”ã±üÿÿÿÿ
+Q	java:S125:"<This block of commented-out lines of code should be removed.(‹Éÿ¼
+Q	java:S125#"<This block of commented-out lines of code should be removed.(‹Éÿ¼
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(“öş‹
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¿éûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(±¿•şÿÿÿÿ
+V	java:S125>"<This block of commented-out lines of code should be removed.(áİ˜ïüÿÿÿÿ
+G
+java:S1612E",Replace this lambda with a method reference.(¯ä­ùÿÿÿÿ
+V	java:S1251"<This block of commented-out lines of code should be removed.(ˆÁóªøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“Ÿ÷Ÿüÿÿÿÿ
+E
+java:S1144b"*Remove this unused private "test1" method.(•Ü±ªÿÿÿÿÿ
+V	java:S125'"<This block of commented-out lines of code should be removed.(®•ïÊıÿÿÿÿ
+V	java:S125,"<This block of commented-out lines of code should be removed.(ÓŸ©Õşÿÿÿÿ
+P	java:S125/"<This block of commented-out lines of code should be removed.(‚¹¤N
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ì½İ®ÿÿÿÿÿ
+<
+java:S1481"&Remove this unused "t" local variable.(®şÊÅ

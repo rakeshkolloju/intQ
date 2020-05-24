@@ -1,0 +1,11 @@
+
+J
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÀÛıÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(È¾Ñ¢úÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(‡—üüÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÌ³
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(¤ˆë¡úÿÿÿÿ

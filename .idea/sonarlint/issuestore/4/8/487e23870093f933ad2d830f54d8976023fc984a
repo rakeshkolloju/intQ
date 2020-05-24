@@ -1,0 +1,12 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(ĞÔªşÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(êÛÔ¿
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(™„“Å
+V	java:S125	"<This block of commented-out lines of code should be removed.(¨¤ó®ıÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ß­ì€
+8
+java:S1659%""Declare "num2" on a separate line.(©ÿé¡

@@ -1,16 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b0a4c079-c04d-4dde-a622-8173599a0853" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Geek1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IntQ2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IntStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/IntQ2Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/19b883056c07067ff8919caf54289cc083a39a56" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/d/1d2bccda807c3db5ef137981380c04af042c1069" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/487e23870093f933ad2d830f54d8976023fc984a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/901b8f507ef830336c216a2c16787d4624f98ed2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd8421b20db36bf1e02b072bf68c871b478eb085" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArrQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IntQ1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringModi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myexp/LombokTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Part+D+booklet+PreAlias+v0+may2020.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/RxBuilder+rule+Alias+v0+may2020.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mALT+aliases+V0+may2020.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/test1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/IntQ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IntQ1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/IntQ1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IntQ1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Geek1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Geek1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/IntQ2Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,17 +75,23 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1ap3FK0JbH7rjNQsWtaot9EJdXC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -66,17 +105,22 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Geek1">
-    <configuration name="Geek1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Geek1" />
+  <component name="RunManager" selected="Application.StringModi">
+    <configuration name="ArrQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrQ" />
       <module name="intQ" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntQ1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IntQ1" />
+    <configuration name="Geek1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk-13.0.1.jdk/Contents/Home" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Geek1" />
       <module name="intQ" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,12 +140,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringModi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringModi" />
+      <module name="intQ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Geek1" />
+      <item itemvalue="Application.IntQ2" />
+      <item itemvalue="Application.IntStrings" />
+      <item itemvalue="Application.ArrQ" />
+      <item itemvalue="Application.StringModi" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringModi" />
+        <item itemvalue="Application.ArrQ" />
         <item itemvalue="Application.Geek1" />
         <item itemvalue="Application.IntStrings" />
         <item itemvalue="Application.IntQ2" />
-        <item itemvalue="Application.IntQ1" />
       </list>
     </recent_temporary>
   </component>
@@ -125,50 +184,94 @@
       <workItem from="1588364168041" duration="570000" />
       <workItem from="1588364783858" duration="1010000" />
       <workItem from="1588603598906" duration="597000" />
-      <workItem from="1588608786353" duration="618000" />
+      <workItem from="1588608786353" duration="2617000" />
+      <workItem from="1588900064930" duration="4457000" />
+      <workItem from="1589906854152" duration="11190000" />
+      <workItem from="1589984599430" duration="889000" />
+      <workItem from="1590008266649" duration="1280000" />
+      <workItem from="1590160345498" duration="1485000" />
+      <workItem from="1590289030689" duration="508000" />
     </task>
+    <task id="LOCAL-00001" summary="d">
+      <created>1588612249013</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588612249013</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="d" />
+    <option name="LAST_COMMIT_MESSAGE" value="d" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="160" key="#Project_Structure" timestamp="1587418680883">
       <screen x="0" y="23" width="1680" height="944" />
     </state>
     <state x="440" y="160" key="#Project_Structure/0.23.1680.944@0.23.1680.944" timestamp="1587418680883" />
-    <state width="1636" height="252" key="GridCell.Tab.0.bottom" timestamp="1588347071607">
+    <state x="304" y="157" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588612981903">
       <screen x="0" y="23" width="1680" height="944" />
     </state>
-    <state width="1636" height="252" key="GridCell.Tab.0.bottom/0.23.1680.944@0.23.1680.944" timestamp="1588347071607" />
-    <state width="1636" height="252" key="GridCell.Tab.0.center" timestamp="1588347071607">
+    <state x="304" y="157" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.944@0.23.1680.944" timestamp="1588612981903" />
+    <state x="427" y="66" key="CommitChangelistDialog2" timestamp="1588612248783">
       <screen x="0" y="23" width="1680" height="944" />
     </state>
-    <state width="1636" height="252" key="GridCell.Tab.0.center/0.23.1680.944@0.23.1680.944" timestamp="1588347071607" />
-    <state width="1636" height="252" key="GridCell.Tab.0.left" timestamp="1588347071607">
+    <state x="427" y="66" key="CommitChangelistDialog2/0.23.1680.944@0.23.1680.944" timestamp="1588612248783" />
+    <state width="1636" height="252" key="GridCell.Tab.0.bottom" timestamp="1590160475650">
       <screen x="0" y="23" width="1680" height="944" />
     </state>
-    <state width="1636" height="252" key="GridCell.Tab.0.left/0.23.1680.944@0.23.1680.944" timestamp="1588347071607" />
-    <state width="1636" height="252" key="GridCell.Tab.0.right" timestamp="1588347071607">
+    <state width="1636" height="252" key="GridCell.Tab.0.bottom/0.23.1680.944@0.23.1680.944" timestamp="1590160475650" />
+    <state width="1636" height="252" key="GridCell.Tab.0.center" timestamp="1590160475650">
       <screen x="0" y="23" width="1680" height="944" />
     </state>
-    <state width="1636" height="252" key="GridCell.Tab.0.right/0.23.1680.944@0.23.1680.944" timestamp="1588347071607" />
-    <state width="1636" height="312" key="GridCell.Tab.1.bottom" timestamp="1588108587326">
+    <state width="1636" height="252" key="GridCell.Tab.0.center/0.23.1680.944@0.23.1680.944" timestamp="1590160475650" />
+    <state width="1636" height="252" key="GridCell.Tab.0.left" timestamp="1590160475649">
       <screen x="0" y="23" width="1680" height="944" />
     </state>
-    <state width="1636" height="312" key="GridCell.Tab.1.bottom/0.23.1680.944@0.23.1680.944" timestamp="1588108587326" />
-    <state width="1636" height="312" key="GridCell.Tab.1.center" timestamp="1588108587326">
+    <state width="1636" height="252" key="GridCell.Tab.0.left/0.23.1680.944@0.23.1680.944" timestamp="1590160475649" />
+    <state width="1636" height="252" key="GridCell.Tab.0.right" timestamp="1590160475650">
       <screen x="0" y="23" width="1680" height="944" />
     </state>
-    <state width="1636" height="312" key="GridCell.Tab.1.center/0.23.1680.944@0.23.1680.944" timestamp="1588108587326" />
-    <state width="1636" height="312" key="GridCell.Tab.1.left" timestamp="1588108587326">
+    <state width="1636" height="252" key="GridCell.Tab.0.right/0.23.1680.944@0.23.1680.944" timestamp="1590160475650" />
+    <state width="1636" height="312" key="GridCell.Tab.1.bottom" timestamp="1588961920995">
       <screen x="0" y="23" width="1680" height="944" />
     </state>
-    <state width="1636" height="312" key="GridCell.Tab.1.left/0.23.1680.944@0.23.1680.944" timestamp="1588108587326" />
-    <state width="1636" height="312" key="GridCell.Tab.1.right" timestamp="1588108587326">
+    <state width="1636" height="312" key="GridCell.Tab.1.bottom/0.23.1680.944@0.23.1680.944" timestamp="1588961920995" />
+    <state width="1636" height="312" key="GridCell.Tab.1.center" timestamp="1588961920995">
       <screen x="0" y="23" width="1680" height="944" />
     </state>
-    <state width="1636" height="312" key="GridCell.Tab.1.right/0.23.1680.944@0.23.1680.944" timestamp="1588108587326" />
+    <state width="1636" height="312" key="GridCell.Tab.1.center/0.23.1680.944@0.23.1680.944" timestamp="1588961920995" />
+    <state width="1636" height="312" key="GridCell.Tab.1.left" timestamp="1588961920995">
+      <screen x="0" y="23" width="1680" height="944" />
+    </state>
+    <state width="1636" height="312" key="GridCell.Tab.1.left/0.23.1680.944@0.23.1680.944" timestamp="1588961920995" />
+    <state width="1636" height="312" key="GridCell.Tab.1.right" timestamp="1588961920995">
+      <screen x="0" y="23" width="1680" height="944" />
+    </state>
+    <state width="1636" height="312" key="GridCell.Tab.1.right/0.23.1680.944@0.23.1680.944" timestamp="1588961920995" />
+    <state x="440" y="235" key="Vcs.Push.Dialog.v2" timestamp="1588612855417">
+      <screen x="0" y="23" width="1680" height="944" />
+    </state>
+    <state x="440" y="235" key="Vcs.Push.Dialog.v2/0.23.1680.944@0.23.1680.944" timestamp="1588612855417" />
     <state x="619" y="229" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1588015382375">
       <screen x="0" y="23" width="1680" height="944" />
     </state>

@@ -1,0 +1,25 @@
+
+Q	java:S125>"<This block of commented-out lines of code should be removed.(—Â¬Ö
+V	java:S125J"<This block of commented-out lines of code should be removed.(ö¯—Ëúÿÿÿÿ
+Q	java:S125U"<This block of commented-out lines of code should be removed.(¾èºç
+U
+java:S1854("8Remove this useless assignment to local variable "arr1".(ÿŽ¢ß8öõÏ…ž.
+C
+java:S1481D"(Remove this unused "ks1" local variable.(”Œ†Žúÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(¾’ÛÄÿÿÿÿÿ
+Q	java:S125<"<This block of commented-out lines of code should be removed.(‹Ò»€
+J
+java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š
+c
+java:S5361D"HReplace this call to "replaceAll()" by a call to the "replace()" method.(”Œ†Žúÿÿÿÿ
+P	java:S125E"<This block of commented-out lines of code should be removed.(—åïy
+b
+java:S2095-"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(çí””
+F
+java:S1481(")Remove this unused "arr1" local variable.(ÿŽ¢ß8öõÏ…ž.
+]	java:S125]"<This block of commented-out lines of code should be removed.(µÅåƒþÿÿÿÿ8¨Åž.
+V	java:S1258"<This block of commented-out lines of code should be removed.(âäÅàÿÿÿÿÿ
+X	java:S125*"<This block of commented-out lines of code should be removed.(Ç€ï8öõÏ…ž.
+R
+java:S1854D"7Remove this useless assignment to local variable "ks1".(”Œ†Žúÿÿÿÿ
+V	java:S125:"<This block of commented-out lines of code should be removed.(þŸñˆýÿÿÿÿ

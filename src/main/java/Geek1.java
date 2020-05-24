@@ -39,7 +39,7 @@ public class Geek1 {
 
         int[] arr1={1,2,4};
 
-        Stream.of(arr1).collect(Collectors.toList()).sort(x->x);
+        //Stream.of(arr1).collect(Collectors.toList()).sort(x->x);
 
 
         BufferedWriter bw=new BufferedWriter(new FileWriter("test.csv"));
