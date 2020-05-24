@@ -1,0 +1,15 @@
+
+‘
+java:S1130-"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(œ¸Ëæûÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(˜€™™øÿÿÿÿ8‚­ð“£.
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ
+V	java:S125""<This block of commented-out lines of code should be removed.(­½ïøøÿÿÿÿ
+^
+java:S5361F"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ÛŠ°•
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(´îËéûÿÿÿÿ8—âõ“£.
+K
+java:S1481'")Remove this unused "temp" local variable.(â·Î¶ùÿÿÿÿ8—âõ“£.
+]	java:S125"<This block of commented-out lines of code should be removed.(µÏÍŒþÿÿÿÿ8ä¦ö“£.
+Q	java:S125"<This block of commented-out lines of code should be removed.(þ‡ã
+˜
+java:S1130"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(òá–Ýýÿÿÿÿ8ä¦ö“£.

@@ -1,0 +1,12 @@
+
+9
+java:S1116
+"Remove this empty statement.(³áÁ†8¢ëœ¨Ÿ.
+K
+java:S1481")Remove this unused "arr1" local variable.(¢ÚµÑøÿÿÿÿ8­ØíŸ.
+X	java:S125	"<This block of commented-out lines of code should be removed.(˜„­Ó8­Ô›¨Ÿ.
+Z
+java:S1854"8Remove this useless assignment to local variable "arr1".(¢ÚµÑøÿÿÿÿ8­ØíŸ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Àš¸8«İŸ.
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(³áÁ†8µËœ¨Ÿ.
